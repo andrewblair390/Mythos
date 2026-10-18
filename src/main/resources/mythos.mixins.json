@@ -3,7 +3,8 @@
 	"package": "com.andrewblair.mythos.mixin",
 	"compatibilityLevel": "JAVA_25",
 	"mixins": [
-		"ExampleMixin"
+		"ExampleMixin",
+		"EnchantmentHelperMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

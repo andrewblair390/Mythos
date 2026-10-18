@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mythos:celestial_bronze_helmet",
+    "mythos:celestial_bronze_chestplate",
+    "mythos:celestial_bronze_leggings",
+    "mythos:celestial_bronze_boots"
+  ]
+}
