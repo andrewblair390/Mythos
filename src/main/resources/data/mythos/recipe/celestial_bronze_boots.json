@@ -1,0 +1,10 @@
+
+{
+  "type": "minecraft:smithing_transform",
+  "template": "minecraft:netherite_upgrade_smithing_template",
+  "base": "minecraft:golden_boots",
+  "addition": "mythos:celestial_bronze_ingot",
+  "result": {
+    "id": "mythos:celestial_bronze_boots"
+  }
+}

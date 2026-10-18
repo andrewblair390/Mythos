@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "mythos:celestial_bronze"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "mythos:celestial_bronze"
+      }
+    ],
+    "humanoid_baby": [
+      {
+        "texture": "mythos:celestial_bronze"
+      }
+    ]
+  }
+}
