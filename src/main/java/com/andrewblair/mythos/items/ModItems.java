@@ -16,6 +16,12 @@ public class ModItems {
             new Item.Properties()
     );
 
+    public static final Item CELESTIAL_UPGRADE_TEMPLATE = register(
+            ModItemIds.CELESTIAL_UPGRADE_TEMPLATE,
+            Item::new,
+            new Item.Properties()
+    );
+
     public static final Item CELESTIAL_BRONZE_HELMET = register(
             ModItemIds.CELESTIAL_BRONZE_HELMET,
             Item::new,

@@ -28,12 +28,13 @@ public class ModCreativeTabs {
 
                         // Materials
                         output.accept(ModItems.CELESTIAL_BRONZE_INGOT);
-
+                        output.accept(ModItems.CELESTIAL_UPGRADE_TEMPLATE);
                         // Armor
                         output.accept(ModItems.CELESTIAL_BRONZE_HELMET);
                         output.accept(ModItems.CELESTIAL_BRONZE_CHESTPLATE);
                         output.accept(ModItems.CELESTIAL_BRONZE_LEGGINGS);
                         output.accept(ModItems.CELESTIAL_BRONZE_BOOTS);
+
 
                     })
                     .build();

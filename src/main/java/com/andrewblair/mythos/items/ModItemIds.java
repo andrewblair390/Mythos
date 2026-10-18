@@ -10,6 +10,9 @@ public class ModItemIds {
     public static final ResourceKey<Item> CELESTIAL_BRONZE_INGOT =
             create("celestial_bronze_ingot");
 
+    public static final ResourceKey<Item> CELESTIAL_UPGRADE_TEMPLATE =
+            create("celestial_upgrade_template");
+
     public static final ResourceKey<Item> CELESTIAL_BRONZE_HELMET =
             create("celestial_bronze_helmet");
 
