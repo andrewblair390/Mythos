@@ -11,7 +11,7 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.resources.ResourceKey;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
-
+import com.andrewblair.mythos.blocks.ModBlocks;
 public class ModCreativeTabs {
 
     public static final ResourceKey<CreativeModeTab> MYTHOS_TAB_KEY =
@@ -29,6 +29,9 @@ public class ModCreativeTabs {
                         // Materials
                         output.accept(ModItems.CELESTIAL_BRONZE_INGOT);
                         output.accept(ModItems.CELESTIAL_UPGRADE_TEMPLATE);
+                        output.accept(ModBlocks.HOLY_DIRT.asItem());
+                        output.accept(ModBlocks.HOLY_GRASS.asItem());
+                        output.accept(ModBlocks.HOLY_STONE.asItem());
                         // Armor
                         output.accept(ModItems.CELESTIAL_BRONZE_HELMET);
                         output.accept(ModItems.CELESTIAL_BRONZE_CHESTPLATE);

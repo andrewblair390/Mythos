@@ -1,5 +1,6 @@
 package com.andrewblair.mythos;
 
+import com.andrewblair.mythos.blocks.ModBlocks;
 import net.fabricmc.api.ModInitializer;
 
 import net.minecraft.resources.Identifier;
@@ -21,7 +22,7 @@ public class Mythos implements ModInitializer {
 
 		LOGGER.info("Hello Fabric world!");
 		ModItems.initialize();
-
+		ModBlocks.initialize();
 		ModCreativeTabs.initialize();
 	}
 

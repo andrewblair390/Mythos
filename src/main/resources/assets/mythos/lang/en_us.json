@@ -5,5 +5,8 @@
   "item.mythos.celestial_bronze_chestplate": "Celestial Bronze Chestplate",
   "item.mythos.celestial_bronze_leggings": "Celestial Bronze Leggings",
   "item.mythos.celestial_bronze_boots": "Celestial Bronze Boots",
-  "item.mythos.celestial_upgrade_template": "Ascendant Upgrade Template"
+  "item.mythos.celestial_upgrade_template": "Ascendant Upgrade Template",
+  "block.mythos.holy_grass": "Olympian Grass",
+  "block.mythos.holy_dirt": "Olympian Dirt",
+  "block.mythos.holy_stone": "Olympian Stone"
 }
